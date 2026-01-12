@@ -1,0 +1,5 @@
+{
+  "name": "HomeBudget AI",
+  "description": "An intelligent household budgeting tool that cleans, classifies, and visualizes messy bank transaction data using Gemini AI.",
+  "requestFramePermissions": []
+}
