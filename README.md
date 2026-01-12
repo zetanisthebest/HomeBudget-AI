@@ -7,6 +7,8 @@ Instead of forcing transactions into generic categories, it uses AI to understan
 
 This project explores how designers can use AI to build deeply personal tools by expressing intent, not writing perfect code.
 
+View the app in Google AI Studio: https://ai.studio/apps/drive/16X9DgOC4Ta6hHY-nEpfPtz-tfBs7_Jsf
+
 ---
 
 ## Core Ideas
